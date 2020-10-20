@@ -1,0 +1,13 @@
+nnosmok\AbstractEvent.class
+nnosmok\DeductedPoints.class
+nnosmok\AccumulatedPoints.class
+nnosmok\Registered.class
+nnosmok\PointController.class
+nnosmok\PointRepository.class
+nnosmok\config\kafka\KafkaProcessor.class
+nnosmok\RegisteredPoints.class
+nnosmok\CheckedInSmokingArea.class
+nnosmok\AbstractEvent$1.class
+nnosmok\Point.class
+nnosmok\PolicyHandler.class
+nnosmok\PointApplication.class
